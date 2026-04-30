@@ -1,29 +1,21 @@
 # 🏥 CRM Hospital São Rafael — Sprint 4: Grafos e Dijkstra
 
-> **Matéria:** Dynamic Programming (Python)
-> **Instituição:** [Nome da Faculdade]
-> **Semestre:** [Semestre/Ano]
-> **Equipe:** Ana Luiza Santana · Erick Cardoso · Gabrielly Candido · João Victor Ferreira · Luiza Ribeiro
+## Para acessar a documentação técnica, clique aqui no [link da documentação do projeto.](https://docs.google.com/document/d/12iFjDxmj4o4cLB6VeEuLOk47B1eSCFefqIFj37hK0GY/edit?usp=sharing)
 
+**Turma:** 2ESPS  
+
+**Alunos:**
+- Ana Luiza Santana RM: 561194  
+- Erick Cardoso RM: 560440  
+- Gabrielly Candido RM: 560916  
+- João Victor Ferreira RM: 560439  
+- Luiza Ribeiro RM: 560200
 ---
 
 ## 📋 Sobre o Projeto
 
 Este repositório contém a **Sprint 4** do desafio integrador de desenvolvimento de um **CRM de Vendas e Leads** para o **Hospital São Rafael**.
 O foco desta sprint é modelar o **fluxo do CRM como um grafo direcionado** e aplicar o **algoritmo de Dijkstra** para encontrar o caminho mais eficiente — em tempo — para converter um Lead em Confirmação de contrato.
-
----
-
-## 🧠 Conceitos Aplicados
-
-| Conceito | Onde é usado |
-|---|---|
-| **Grafo direcionado e ponderado** | Representação do fluxo CRM em `grafo.py` |
-| **Lista de adjacência** | Estrutura de dados escolhida para o grafo |
-| **Min-heap (`heapq`)** | Fila de prioridade do Dijkstra em `dijkstra.py` |
-| **Algoritmo de Dijkstra** | Menor caminho Lead → Confirmação |
-| **DFS (busca em profundidade)** | Enumeração de todos os caminhos possíveis em `interpretacao.py` |
-| **Relaxamento de arestas** | Atualização de distâncias no Dijkstra |
 
 ---
 
@@ -50,7 +42,7 @@ SPRINT4-HSR-PY/
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/SPRINT4-HSR-PY.git
+git clone https://github.com/anarand/sprint4-hsr-dynamicprogramming.git
 cd SPRINT4-HSR-PY
 
 # Executar o projeto completo
@@ -59,7 +51,6 @@ python main.py
 # Ou executar uma tarefa individualmente
 python grafo.py
 python dijkstra.py
-python interpretacao.py
 ```
 
 ---
