@@ -43,7 +43,7 @@ SPRINT4-HSR-PY/
 ```bash
 # Clonar o repositório
 git clone https://github.com/anarand/sprint4-hsr-dynamicprogramming.git
-cd SPRINT4-HSR-PY
+cd sprint4-hsr-dynamicprogramming
 
 # Executar o projeto completo
 python main.py
