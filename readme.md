@@ -1,6 +1,6 @@
 # 🏥 CRM Hospital São Rafael — Sprint 4: Grafos e Dijkstra
 
-## Para acessar a documentação técnica, clique aqui no [link da documentação do projeto.](https://docs.google.com/document/d/1kd_FBiTFDpTrHksNMb-d52iYuevHx0Ah3q-SYiTnWyE/edit?usp=sharing)
+## Para acessar a documentação, clique aqui no [link da documentação do projeto.](https://docs.google.com/document/d/1kd_FBiTFDpTrHksNMb-d52iYuevHx0Ah3q-SYiTnWyE/edit?usp=sharing)
 
 **Turma:** 2ESPS  
 
