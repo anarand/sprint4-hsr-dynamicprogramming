@@ -1,6 +1,6 @@
 # 🏥 CRM Hospital São Rafael — Sprint 4: Grafos e Dijkstra
 
-## Para acessar a documentação técnica, clique aqui no [link da documentação do projeto.]([https://docs.google.com/document/d/12iFjDxmj4o4cLB6VeEuLOk47B1eSCFefqIFj37hK0GY/edit?usp=sharing](https://docs.google.com/document/d/1kd_FBiTFDpTrHksNMb-d52iYuevHx0Ah3q-SYiTnWyE/edit?usp=sharing))
+## Para acessar a documentação técnica, clique aqui no [link da documentação do projeto.](https://docs.google.com/document/d/1kd_FBiTFDpTrHksNMb-d52iYuevHx0Ah3q-SYiTnWyE/edit?usp=sharing)
 
 **Turma:** 2ESPS  
 
@@ -34,6 +34,8 @@ SPRINT4-HSR-PY/
 
 > Cada módulo de tarefa pode ser executado individualmente com `python <arquivo>.py`.
 
+ A **Tarefa 3** se encontra na documentação do projeto.
+ 
 ---
 
 ## ⚙️ Como Executar
