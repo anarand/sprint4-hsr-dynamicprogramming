@@ -15,7 +15,7 @@
 ## 📋 Sobre o Projeto
 
 Este repositório contém a **Sprint 4** do desafio integrador de desenvolvimento de um **CRM de Vendas e Leads** para o **Hospital São Rafael**.
-O foco desta sprint é modelar o **fluxo do CRM como um grafo direcionado** e aplicar o **algoritmo de Dijkstra** para encontrar o caminho mais eficiente — em tempo — para converter um Lead em Confirmação de contrato.
+O foco desta sprint é modelar o **fluxo do CRM como um grafo direcionado** e aplicar o **algoritmo de Dijkstra** para encontrar o caminho mais eficiente — em tempo — para converter um Lead em Confirmação de contrato. 
 
 ---
 
