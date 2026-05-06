@@ -6,8 +6,6 @@ Funções auxiliares de exibição compartilhadas entre os módulos.
 
 
 def separador(titulo: str) -> None:
-    """Imprime um separador visual com título."""
-    largura = 64
     print(f"  {titulo}")
 
 
